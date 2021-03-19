@@ -1,0 +1,13 @@
+## Customize
+CONFIG_PACKAGE_aria2=y
+CONFIG_PACKAGE_ariang=y
+CONFIG_PACKAGE_transmission-daemon-openssl=y
+CONFIG_PACKAGE_transmission-web-control=y
+CONFIG_PACKAGE_luci-i18n-transmission-zh-cn=y
+CONFIG_PACKAGE_luci-app-ssr-plus=y
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks=y
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_V2ray=y
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Trojan=y
+# CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun is not set
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Server=y
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Socks=y
